@@ -544,7 +544,7 @@ dependencies = [
 
 [[package]]
 name = "kona-common"
-version = "0.0.1"
+version = "0.0.2"
 dependencies = [
  "anyhow",
  "cfg-if",
@@ -553,7 +553,7 @@ dependencies = [
 
 [[package]]
 name = "kona-derive"
-version = "0.0.1"
+version = "0.0.2"
 dependencies = [
  "alloy-consensus",
  "alloy-eips",
@@ -573,7 +573,7 @@ dependencies = [
 
 [[package]]
 name = "kona-preimage"
-version = "0.0.1"
+version = "0.0.2"
 dependencies = [
  "anyhow",
  "cfg-if",
